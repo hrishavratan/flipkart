@@ -51,17 +51,16 @@ header{
 
 .search {
     padding-left:1vw;
-    padding-right: 30px;
     height:5vh;
-    width:25vw;
+    width:26.5vw;
     margin-left: -0.5vw;
 }
 
 .login {
-    height: 4vh;
-    width: 7vw;
-    padding-left: 3.5vw;
-    text-decoration: green;
+    height: 5vh;
+    width:10vw;
+    color: blue;
+
 }
 
 .seller {
